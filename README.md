@@ -2,7 +2,7 @@
 converts cai json file to pygmalion format
 
 [download convertor](https://github.com/BeQaSSS/caijson-pygmalion-convertor/archive/refs/heads/main.zip)
-now choice you name and bots name,
+open index.html file in browser, now choice you name and bots name,
 click choice file button and select character json file you want to convert,
 if you had multiple conversations wih bot you will see multiple links after (Conversations:) block,
 click link and download it (should be like {you bots name}_conversation.json ),
